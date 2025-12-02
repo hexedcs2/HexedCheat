@@ -1,2 +1,2 @@
 # HexedCheat
-Private cheat for cs2
+Private cheat
